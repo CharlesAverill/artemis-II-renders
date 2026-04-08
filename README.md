@@ -2,6 +2,8 @@
 
 ![Towards Moon](renders/sunBelow/artemisTowards%20Moon.png)
 
+![Rotation GIF](renders/anim/output.gif)
+
 ![Behind](renders/sunBelow/artemisBehind.png)
 
 ![Full Body](renders/sunAbove/artemisFull-Body.png)
